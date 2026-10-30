@@ -1,0 +1,11 @@
+{
+  "name": "genpark-distributed-lock-fencing-token-validator-skill",
+  "version": "1.0.0",
+  "description": "Enforces distributed mutual exclusion with monotonic fencing tokens and optimistic lock lease expiration checks to prevent split-brain writes",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
